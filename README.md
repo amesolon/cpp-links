@@ -12,6 +12,10 @@ https://cdn2-ecros.pl/event/codedive/files/presentations/2017/code%20dive%202017
 
 https://stackoverflow.com/questions/4421706/what-are-the-basic-rules-and-idioms-for-operator-overloading
 
+## C++17 Deduction Guides
+
+https://stackoverflow.com/questions/40951697/what-are-template-deduction-guides-and-when-should-we-use-them
+
 
 ## SFINAE
 https://www.fluentcpp.com/2017/06/02/write-template-metaprogramming-expressively/
