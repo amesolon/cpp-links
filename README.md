@@ -8,6 +8,10 @@ https://www.youtube.com/watch?v=UnIc_qJ0DRc
 (Slides)
 https://cdn2-ecros.pl/event/codedive/files/presentations/2017/code%20dive%202017%20-%20Milosz%20Warzecha%20-%20An%20inspiring%20introduction%20to%20template%20metaprogramming.pdf
 
+## Operator Overloading Stack Overflow
+
+https://stackoverflow.com/questions/4421706/what-are-the-basic-rules-and-idioms-for-operator-overloading
+
 
 ## SFINAE
 https://www.fluentcpp.com/2017/06/02/write-template-metaprogramming-expressively/
