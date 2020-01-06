@@ -11,6 +11,8 @@ https://cdn2-ecros.pl/event/codedive/files/presentations/2017/code%20dive%202017
 ## The `overload` trick (a.k.a. `overload_set`)
 https://dev.to/tmr232/that-overloaded-trick-overloading-lambdas-in-c17
 
+The issue: https://bitbashing.io/std-visit.html --> unnecessary complex, but maybe OK if we provide the `overload` helper?
+
 ## Operator Overloading Stack Overflow
 
 https://stackoverflow.com/questions/4421706/what-are-the-basic-rules-and-idioms-for-operator-overloading
