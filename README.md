@@ -8,6 +8,9 @@ https://www.youtube.com/watch?v=UnIc_qJ0DRc
 (Slides)
 https://cdn2-ecros.pl/event/codedive/files/presentations/2017/code%20dive%202017%20-%20Milosz%20Warzecha%20-%20An%20inspiring%20introduction%20to%20template%20metaprogramming.pdf
 
+## The `overload` trick (a.k.a. `overload_set`)
+https://dev.to/tmr232/that-overloaded-trick-overloading-lambdas-in-c17
+
 ## Operator Overloading Stack Overflow
 
 https://stackoverflow.com/questions/4421706/what-are-the-basic-rules-and-idioms-for-operator-overloading
