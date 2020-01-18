@@ -1,5 +1,8 @@
 # cpp-links
 
+## Shared pointer aliasing ctor
+https://www.justsoftwaresolutions.co.uk/cplusplus/shared-ptr-secret-constructor.html
+
 ## Modern Metaprogramming Use-Cases 
 
 (Video)
