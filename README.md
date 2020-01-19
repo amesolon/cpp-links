@@ -1,5 +1,15 @@
 # cpp-links
 
+## Online IDEs
+Coliru: http://coliru.stacked-crooked.com/
+Wandbox: https://wandbox.org/
+
+
+## Variants, polymorphism
+* Overload set in C++11 (by me): https://wandbox.org/permlink/2jf5sFoA4s9w2Bf9
+* Overload set in C++17: https://dev.to/tmr232/that-overloaded-trick-overloading-lambdas-in-c17
+* Opinion article + C++11-ish implementation: https://bitbashing.io/std-visit.html
+
 ## Shared pointer aliasing ctor
 https://www.justsoftwaresolutions.co.uk/cplusplus/shared-ptr-secret-constructor.html
 
@@ -11,18 +21,12 @@ https://www.youtube.com/watch?v=UnIc_qJ0DRc
 (Slides)
 https://cdn2-ecros.pl/event/codedive/files/presentations/2017/code%20dive%202017%20-%20Milosz%20Warzecha%20-%20An%20inspiring%20introduction%20to%20template%20metaprogramming.pdf
 
-## The `overload` trick (a.k.a. `overload_set`)
-https://dev.to/tmr232/that-overloaded-trick-overloading-lambdas-in-c17
 
-The issue: https://bitbashing.io/std-visit.html --> unnecessary complex, but maybe OK if we provide the `overload` helper?
-
-## Operator Overloading Stack Overflow
-
-https://stackoverflow.com/questions/4421706/what-are-the-basic-rules-and-idioms-for-operator-overloading
+## Operator Overloading
+* https://stackoverflow.com/questions/4421706/what-are-the-basic-rules-and-idioms-for-operator-overloading
 
 ## C++17 Deduction Guides
-
-https://stackoverflow.com/questions/40951697/what-are-template-deduction-guides-and-when-should-we-use-them
+* https://stackoverflow.com/questions/40951697/what-are-template-deduction-guides-and-when-should-we-use-them
 
 
 ## SFINAE
