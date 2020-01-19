@@ -4,11 +4,12 @@
 Coliru: http://coliru.stacked-crooked.com/
 Wandbox: https://wandbox.org/
 
-## `T&&`
+## Rvalue reference + Forwarding reference (`T&&`)
 Good article: https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers
 
 ## Variants, polymorphism
 * Overload set in C++11 (by me): https://wandbox.org/permlink/2jf5sFoA4s9w2Bf9
+* Same, with move semantics (by me): https://wandbox.org/permlink/yvP7Y0kTfJll6sSJ
 * Overload set in C++17: https://dev.to/tmr232/that-overloaded-trick-overloading-lambdas-in-c17
 * Opinion article + C++11-ish implementation: https://bitbashing.io/std-visit.html
 
