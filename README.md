@@ -4,6 +4,8 @@
 Coliru: http://coliru.stacked-crooked.com/
 Wandbox: https://wandbox.org/
 
+## `T&&`
+Good article: https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers
 
 ## Variants, polymorphism
 * Overload set in C++11 (by me): https://wandbox.org/permlink/2jf5sFoA4s9w2Bf9
