@@ -5,7 +5,8 @@ Coliru: http://coliru.stacked-crooked.com/
 Wandbox: https://wandbox.org/
 
 ## Rvalue reference + Forwarding reference (`T&&`)
-Good article: https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers
+* Good article: https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers
+* https://foonathan.net/2018/03/rvalue-references-api-guidelines/
 
 ## Variants, polymorphism
 * Overload set in C++11 (by me): https://wandbox.org/permlink/2jf5sFoA4s9w2Bf9
