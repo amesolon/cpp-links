@@ -8,6 +8,11 @@ Wandbox: https://wandbox.org/
 * Good article: https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers
 * https://foonathan.net/2018/03/rvalue-references-api-guidelines/
 
+## polymorphic_value
+* Polymortphic deep copy: https://stackoverflow.com/questions/5027456/copying-derived-entities-using-only-base-class-pointers-without-exhaustive-tes
+* polymorphic_value and type-erasure: https://foonathan.net/2020/01/type-erasure/#content
+* polymorphic_value proposal: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0201r3.pdf
+
 ## Variants, polymorphism
 * Overload set in C++11 (by me): https://wandbox.org/permlink/2jf5sFoA4s9w2Bf9
 * Same, with move semantics (by me): https://wandbox.org/permlink/yvP7Y0kTfJll6sSJ
