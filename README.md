@@ -1,5 +1,18 @@
 # cpp-links
 
+## Starter Pack
+Books: This StackOverflow answer https://stackoverflow.com/questions/388242/ 
+
+Resources: Bjarne Stroustrup's FAQ http://www.stroustrup.com/bs_faq.html 
+
+The isocpp Get Started page: https://isocpp.org/get-started 
+
+The Ultimate List of C++ Links: https://github.com/MattPD/cpplinks/blob/master/learning_teaching.md 
+
+Programming in C++ — The C++ Language, Libraries, Tools, and Other Topics: http://www.ece.uvic.ca/~frodo/cppbook/ 
+
+SG20 Education and Recommended Videos for Teaching C++: https://www.cjdb.com.au/sg20-and-videos
+
 ## Online IDEs
 Coliru: http://coliru.stacked-crooked.com/
 Wandbox: https://wandbox.org/
