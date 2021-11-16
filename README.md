@@ -13,6 +13,11 @@ Programming in C++ — The C++ Language, Libraries, Tools, and Other Topics: htt
 
 SG20 Education and Recommended Videos for Teaching C++: https://www.cjdb.com.au/sg20-and-videos
 
+## Blogs
+Cppstories (bfilipek): https://www.cppstories.com/p/archive/
+Modernes C++: https://www.modernescpp.com/
+Fluent C++: https://www.fluentcpp.com/
+
 ## Online IDEs
 Coliru: http://coliru.stacked-crooked.com/
 Wandbox: https://wandbox.org/
